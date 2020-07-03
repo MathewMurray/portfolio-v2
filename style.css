@@ -18,7 +18,7 @@ padding-right:8px;
 }
 
 
-form lable {
+form label {
   display: block;
 
 }
@@ -42,13 +42,12 @@ footer {
 
 img {
   width: 65%;
-  border-radius: 90px;
+  border-radius: 4px;
   margin-left: 50px;
   }
 
 img.rounded{
-  width:50px;
-  border-radius: 8px;
+  border-radius: 90px;
   }
 
 header h1 {
@@ -173,7 +172,7 @@ a:hover{
   #home, #portfolio, #contact{
     margin-bottom: 120px;
   }
-  .bg-callout{
+  .bg-call {
     background-color:#000;
     padding:20px 0 30px 0;
     
